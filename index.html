@@ -1,31 +1,69 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Gouri Biju | Data Analyst Portfolio</title>
+    <title>Gouri Biju | Data Analyst</title>
+
     <style>
         body {
-            font-family: Arial;
+            font-family: Arial, sans-serif;
             margin: 0;
-            background: #f4f6f8;
+            background: #f5f7fb;
         }
+
         header {
-            background: #2c3e50;
+            background: linear-gradient(135deg, #2c3e50, #3498db);
             color: white;
-            padding: 40px;
             text-align: center;
+            padding: 60px 20px;
         }
-        section {
-            max-width: 800px;
-            margin: 20px auto;
+
+        header h1 {
+            margin: 0;
+            font-size: 40px;
+        }
+
+        header p {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .card {
             background: white;
             padding: 20px;
-            border-radius: 10px;
+            margin: 20px 0;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
         }
+
         h2 {
             color: #2c3e50;
         }
+
         .project {
-            margin-bottom: 10px;
+            padding: 10px;
+            margin: 10px 0;
+            background: #f0f4ff;
+            border-radius: 8px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 15px;
+            margin-top: 10px;
+            background: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+        }
+
+        .btn:hover {
+            background: #2c3e50;
         }
     </style>
 </head>
@@ -34,34 +72,36 @@
 
 <header>
     <h1>Gouri Biju</h1>
-    <p>Data Analyst | Python | SQL | Data Visualization</p>
+    <p>Data Analyst | Python | SQL | Machine Learning</p>
 </header>
 
-<section>
-    <h2>About Me</h2>
-    <p>
-        I am a Data Analyst passionate about turning data into insights.
-        I enjoy working with Python, SQL, and building data-driven solutions.
-    </p>
-</section>
+<div class="container">
 
-<section>
-    <h2>Projects</h2>
-    <div class="project">📊 Student Performance Analysis (Python, Pandas)</div>
-    <div class="project">📈 Sales Dashboard (Excel / Power BI)</div>
-    <div class="project">🤖 Machine Learning Model (scikit-learn)</div>
-</section>
+    <div class="card">
+        <h2>About Me</h2>
+        <p>I am a Data Analyst passionate about transforming data into actionable insights using Python, SQL, and visualization tools.</p>
+    </div>
 
-<section>
-    <h2>Skills</h2>
-    <p>Python | SQL | Excel | Power BI | Machine Learning</p>
-</section>
+    <div class="card">
+        <h2>Projects</h2>
 
-<section>
-    <h2>Contact</h2>
-    <p>Email: your-email@gmail.com</p>
-    <p>LinkedIn: add-your-link-here</p>
-</section>
+        <div class="project">📊 Student Performance Analysis (Python, Pandas)</div>
+        <div class="project">📈 Sales Dashboard (Excel / Power BI)</div>
+        <div class="project">🤖 Machine Learning Model (scikit-learn)</div>
+    </div>
+
+    <div class="card">
+        <h2>Skills</h2>
+        <p>Python | SQL | Excel | Power BI | Data Visualization | Machine Learning</p>
+    </div>
+
+    <div class="card">
+        <h2>Contact</h2>
+        <p>Email: your-email@gmail.com</p>
+        <a class="btn" href="#">LinkedIn Profile</a>
+    </div>
+
+</div>
 
 </body>
 </html>
