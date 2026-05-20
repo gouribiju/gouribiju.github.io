@@ -3,8 +3,8 @@
 ### Data Analyst | Python | SQL | Power BI Enthusiast
 
 📍 Based in Canada  
-📧 yourmail@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+📧 gbruby19@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/gouribiju19 
 
 ---
 
