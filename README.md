@@ -30,8 +30,8 @@ I am passionate about data analytics, machine learning, dashboards, and AI solut
 ## 🔥 Machine Learning
 
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
-![LLM](https://img.shields.io/badge/LLM-Generative%20AI-412991?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Text%20Analytics-1f6feb?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Generative%20AI-412991?style=for-the-badge&logo=scikitlearn)
+![NLP](https://img.shields.io/badge/NLP-Text%20Analytics-1f6feb?style=for-the-badge&logo=scikitlearn)
 
 ---
 
