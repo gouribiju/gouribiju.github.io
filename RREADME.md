@@ -64,7 +64,20 @@ Currently improving my skills in:
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
 
+# 🛠️ Tech Stack
 
+### Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+### Deep Learning Libraries
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
+![PyTorch](https://img.shields.io/badge/PyTorch-darkred?style=for-the-badge&logo=pytorch)
+
+### Data Science Tools
+![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
 ---
 
 ## 📊 Featured Projects
