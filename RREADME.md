@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Your Name
+# Hi there 👋 I'm Gouri Biju
 
 ### Data Analyst | Python | SQL | Power BI Enthusiast
 
