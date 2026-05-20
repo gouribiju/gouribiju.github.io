@@ -22,6 +22,7 @@ I am passionate about data analytics, machine learning, dashboards, and AI solut
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
 
 ---
