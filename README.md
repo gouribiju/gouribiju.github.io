@@ -85,14 +85,6 @@ Currently improving my skills in:
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Power BI
-- Azure Fundamentals
-- Data Engineering Basics
-- Workflow Automation
-
----
-
 ## 📫 Let's Connect
 
 - LinkedIn: https://linkedin.com/in/yourprofile
